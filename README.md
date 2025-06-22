@@ -12,7 +12,7 @@ severity of unregulated substance use
 
 
 **The goals for this project were**
-○ to gain a comprehensive understanding of the ways in which substance use is linked with specific
+* to gain a comprehensive understanding of the ways in which substance use is linked with specific
 social factors using the Social Determinants of Health Framework
-○ to assess the extent of these relationships to substance use patterns in light of the ongoing drug
+*  to assess the extent of these relationships to substance use patterns in light of the ongoing drug
 poisoning crisis.
